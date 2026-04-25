@@ -2,39 +2,39 @@
 
 ### Computer Science Student | AI/ML Explorer | Data Science & Robotics Enthusiast  
 
-I’m a Computer Science student passionate about building technology that is not only smart, but meaningful.  
-My interests sit at the intersection of **Artificial Intelligence, Machine Learning, Data Science, Robotics, and social impact** — where code becomes more than syntax and starts solving real problems.
+I’m a Computer Science student who believes technology should do more than function — it should understand, improve, and empower.  
+
+My interests live at the intersection of **Artificial Intelligence, Machine Learning, Data Science, Robotics, and social impact**. I’m currently building my foundation through coding, research, and real-world projects while learning how to turn ideas into tools that can actually help people.
 
 ---
 
-## 🚀 What I'm Currently Learning
+## 🚀 Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data Analytics and Data Science  
-- 🐍 Python for real-world problem solving  
-- 🦾 Robotics, computer vision, and automation  
-- 🌐 Git, GitHub, and building stronger technical projects  
+- 🐍 Python for problem-solving and automation  
+- 🦾 Robotics, computer vision, and intelligent systems  
+- 🌐 Git, GitHub, and stronger project development  
 
 ---
 
 ## 🧠 What Drives Me
 
-I’m interested in using technology to understand patterns, improve systems, and create tools that help people.  
-Whether it is analyzing data, exploring AI models, or building beginner-friendly projects, I’m always learning with one goal in mind: **turn curiosity into impact.**
+I’m drawn to the kind of technology that notices patterns, asks better questions, and helps people make smarter decisions.  
+
+Whether I’m analyzing data, exploring AI models, learning robotics, or building beginner-friendly projects, my goal is simple:  
+**to turn curiosity into impact.**
 
 ---
-
-## 🛠️ Tech Interests
-
-```text
-AI/ML • Data Science • Robotics • Computer Vision • Cybersecurity •
-
----
-
 ## 📫 How to Reach Me
 
 I'm always open to connecting, collaborating, and learning from others in tech, research, and student leadership.
 
-- 💼 LinkedIn: [Your LinkedIn link here]
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [Your portfolio link here] <!-- optional -->
+- 💼 LinkedIn: www.linkedin.com/in/thinhinane-zadi01/
+- 📧 Email: thinhinanezadi01@outlook.com
+
+---
+## 🛠️ Tech Interests
+
+```text
+AI/ML • Data Science • Robotics • Computer Vision • Cybersecurity • Research • Social Impact
