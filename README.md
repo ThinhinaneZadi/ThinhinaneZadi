@@ -29,3 +29,12 @@ Whether it is analyzing data, exploring AI models, or building beginner-friendly
 ```text
 AI/ML • Data Science • Robotics • Computer Vision • Cybersecurity •
 
+---
+
+## 📫 How to Reach Me
+
+I'm always open to connecting, collaborating, and learning from others in tech, research, and student leadership.
+
+- 💼 LinkedIn: [Your LinkedIn link here]
+- 📧 Email: [your.email@example.com]
+- 🌐 Portfolio: [Your portfolio link here] <!-- optional -->
